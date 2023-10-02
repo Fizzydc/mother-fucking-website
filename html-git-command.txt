@@ -1,0 +1,60 @@
+
+    <header></header>
+    <nav></nav>
+    <main></main>
+    <section></section>
+    <aside></aside>
+    <form></form>
+    <option></option>
+    <select></select>
+    <input>
+    <footer></footer>
+    <label></label>
+    <div></div>
+    <li></li>
+    <ol></ol>
+    <ul></ul>
+    <a></a>
+    <table></table>
+    <tr></tr>
+    <textarea></textarea>
+    <td></td>
+    <audio></audio>
+    <video></video>
+    <p></p>
+    <h1></h1>
+    <h2></h2>
+    <h3></h3>
+    <h4></h4>
+    <h5></h5>
+    <h6></h1>
+    <img>
+    <article></article>
+    <br>
+    <b></b>
+    <iframe></iframe>
+    href=""
+    src=""
+    alt=""
+    name=""
+    id=""
+    for=""
+    class=""
+    <figcaption></figcaption>
+    <caption></caption>
+
+
+    git command
+
+    git status
+    git add .
+    git push -u origin master
+    git log
+    git commit -m "what you commit"
+    git pull
+    git clone
+    git checkout
+    git init
+    git remote
+    git --version
+    
